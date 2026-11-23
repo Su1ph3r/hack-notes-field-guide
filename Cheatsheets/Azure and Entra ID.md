@@ -718,3 +718,6 @@ MicroBurst / MFASweep            # PowerShell enum and MFA gap discovery
 - [Active Directory and Kerberos](Active%20Directory%20and%20Kerberos.md)
 - [Kubernetes and Container Breakout](Kubernetes%20and%20Container%20Breakout.md)
 - [Phishing and Initial Access](Phishing%20and%20Initial%20Access.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -747,3 +747,6 @@ iodine -f -P password t1.example.com                # client over DNS
 - [NetExec and Impacket](NetExec%20and%20Impacket.md)
 - [Reverse Shells and File Transfer](Reverse%20Shells%20and%20File%20Transfer.md)
 - [Linux Privilege Escalation](Linux%20Privilege%20Escalation.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -347,3 +347,6 @@ Revert every artifact you created. Token theft is low-artifact, but onward actio
 - [Azure AiTM Token Theft to Global Admin](Azure%20AiTM%20Token%20Theft%20to%20Global%20Admin.md)
 - [Email Security](../Checklists/Email%20Security.md)
 - [Azure and Entra ID](../Cheatsheets/Azure%20and%20Entra%20ID.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

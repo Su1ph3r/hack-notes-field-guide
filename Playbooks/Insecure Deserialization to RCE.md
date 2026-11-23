@@ -364,3 +364,6 @@ Pivot. Hunt the key (LFI on `web.config`/`machine.config`, shipped-key CVE lists
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
 - [Linux Privilege Escalation](../Cheatsheets/Linux%20Privilege%20Escalation.md)
 - [Windows Privilege Escalation](../Cheatsheets/Windows%20Privilege%20Escalation.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

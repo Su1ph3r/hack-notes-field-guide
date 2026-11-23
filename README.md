@@ -3,10 +3,12 @@
 A practical, cross-linked reference kit for offensive security engagements, in three layers:
 
 - **Cheatsheets** (21): command and payload references for tools and techniques.
-- **Checklists** (25): phased, checkbox methodology guides (what to test, in order) per engagement type.
+- **Checklists** (31): phased, checkbox methodology guides (what to test, in order) per engagement type.
 - **Playbooks** (18): end-to-end attack chains walked A to Z, with commands, decision branches, OPSEC, detection, and cleanup.
 
 All techniques are for authorized security testing only. Content is current to 2024-2026.
+
+Maintained by [Cairn Security](https://cairnsecurity.com), an independent penetration testing practice.
 
 ## How to use
 
@@ -45,21 +47,27 @@ Read top down: a **Cheatsheet** gives you the commands, the matching **Checklist
 - [Azure and M365 Entra ID](Checklists/Azure%20and%20M365%20Entra%20ID.md)
 - [Build Review and VDI](Checklists/Build%20Review%20and%20VDI.md)
 - [CICD Pipeline](Checklists/CICD%20Pipeline.md)
+- [Cloud Configuration Review](Checklists/Cloud%20Configuration%20Review.md)
 - [Compromise Assessment](Checklists/Compromise%20Assessment.md)
 - [Database Security](Checklists/Database%20Security.md)
 - [Email Security](Checklists/Email%20Security.md)
 - [External Network Penetration Test](Checklists/External%20Network%20Penetration%20Test.md)
 - [Firewall and Network Device Review](Checklists/Firewall%20and%20Network%20Device%20Review.md)
+- [Firmware and Embedded Device](Checklists/Firmware%20and%20Embedded%20Device.md)
 - [GCP Cloud Penetration Test](Checklists/GCP%20Cloud%20Penetration%20Test.md)
 - [Internal Network and Active Directory](Checklists/Internal%20Network%20and%20Active%20Directory.md)
 - [IoT Device](Checklists/IoT%20Device.md)
 - [Kubernetes and Containers](Checklists/Kubernetes%20and%20Containers.md)
 - [Mobile Application](Checklists/Mobile%20Application.md)
+- [Network Segmentation Test](Checklists/Network%20Segmentation%20Test.md)
 - [OSINT and Reconnaissance](Checklists/OSINT%20and%20Reconnaissance.md)
 - [OT and ICS](Checklists/OT%20and%20ICS.md)
 - [Phishing and Social Engineering](Checklists/Phishing%20and%20Social%20Engineering.md)
 - [Physical Security](Checklists/Physical%20Security.md)
+- [Purple Team Exercise](Checklists/Purple%20Team%20Exercise.md)
+- [Ransomware Readiness and Simulation](Checklists/Ransomware%20Readiness%20and%20Simulation.md)
 - [Red Team Operation](Checklists/Red%20Team%20Operation.md)
+- [Secure Code Review](Checklists/Secure%20Code%20Review.md)
 - [Thick Client Application](Checklists/Thick%20Client%20Application.md)
 - [Web Application](Checklists/Web%20Application.md)
 - [Wireless Network Assessment](Checklists/Wireless%20Network%20Assessment.md)
@@ -86,3 +94,11 @@ Read top down: a **Cheatsheet** gives you the commands, the matching **Checklist
 - [SQL Injection to RCE to Pivot](Playbooks/SQL%20Injection%20to%20RCE%20to%20Pivot.md)
 - [badSuccessor dMSA to Domain Admin](Playbooks/badSuccessor%20dMSA%20to%20Domain%20Admin.md)
 
+
+---
+
+## About
+
+Written and maintained by [Cairn Security](https://cairnsecurity.com), an independent penetration testing practice. These are the same methodologies we run on client engagements, kept current as the techniques change.
+
+Want any of it run against your own environment, by the people who wrote it? That's the day job: **[cairnsecurity.com](https://cairnsecurity.com)**.

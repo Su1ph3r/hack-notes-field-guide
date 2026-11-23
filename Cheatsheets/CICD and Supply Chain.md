@@ -524,3 +524,6 @@ Related: Caminus (the user's CI/CD pipeline attack framework covering this domai
 - [AWS Pentest](AWS%20Pentest.md)
 - [Kubernetes and Container Breakout](Kubernetes%20and%20Container%20Breakout.md)
 - Vercelsior
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -311,3 +311,6 @@ The differentiator of assumed breach: measure what the defenders saw. This is co
 - [Azure and M365 Entra ID](Azure%20and%20M365%20Entra%20ID.md)
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -378,3 +378,6 @@ Demonstrate impact within RoE, then ensure everything you created is documented 
 - Cepheus
 - Vinculum
 - Caminus
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

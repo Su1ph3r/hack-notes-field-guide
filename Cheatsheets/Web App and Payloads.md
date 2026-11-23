@@ -878,3 +878,6 @@ ysoserial.exe -g TypeConfuseDelegate -f BinaryFormatter -c calc.exe
 - [Nuclei Usage](Nuclei%20Usage.md)
 - Indago
 - BypassBurrito
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

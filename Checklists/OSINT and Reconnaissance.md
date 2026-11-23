@@ -345,3 +345,6 @@ References:
 - [Phishing and Social Engineering](Phishing%20and%20Social%20Engineering.md)
 - [Email Security](Email%20Security.md)
 - [Nuclei Usage](../Cheatsheets/Nuclei%20Usage.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

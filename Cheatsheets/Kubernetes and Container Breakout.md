@@ -511,3 +511,6 @@ curl -s -H "Metadata-Flavor: Google" http://169.254.169.254/computeMetadata/v1/ 
 - [AWS Pentest](AWS%20Pentest.md)
 - [Azure and Entra ID](Azure%20and%20Entra%20ID.md)
 - [Linux Privilege Escalation](Linux%20Privilege%20Escalation.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

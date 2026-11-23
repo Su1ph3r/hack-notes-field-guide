@@ -476,3 +476,6 @@ Related notes: 3270 Combined (z/OS methodology), as400_pentest_checklist (IBM i 
 - as400_pentest_checklist
 - [OSINT and Recon](OSINT%20and%20Recon.md)
 - [Nmap Cheatsheet](Nmap.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

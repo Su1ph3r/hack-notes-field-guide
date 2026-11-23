@@ -328,3 +328,6 @@ Decision: the deploy role is tightly scoped (e.g. only `s3:PutObject` to one buc
 - Cheatsheets: [CICD and Supply Chain](../Cheatsheets/CICD%20and%20Supply%20Chain.md), [AWS Pentest](../Cheatsheets/AWS%20Pentest.md), [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - Tools: Caminus
 - Playbooks: [AWS Leaked Key to IAM Privilege Escalation](AWS%20Leaked%20Key%20to%20IAM%20Privilege%20Escalation.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

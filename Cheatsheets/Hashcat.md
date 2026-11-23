@@ -605,3 +605,6 @@ hashcat -m 0 hashes.txt rockyou.txt --status --status-timer 10
 ## Related
 
 - Checklists: [Internal Network and Active Directory](../Checklists/Internal%20Network%20and%20Active%20Directory.md), [Wireless Network Assessment](../Checklists/Wireless%20Network%20Assessment.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

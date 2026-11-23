@@ -318,3 +318,6 @@ Revert every artifact you introduced, in reverse order of creation:
 - [Active Directory and Kerberos](../Cheatsheets/Active%20Directory%20and%20Kerberos.md)
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -340,3 +340,6 @@ Success signal: the file appears at the traversed location (request it back, or 
 - Checklist: [Web Application](../Checklists/Web%20Application.md)
 - Cheatsheets: [Web App and Payloads](../Cheatsheets/Web%20App%20and%20Payloads.md), [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md), [Linux Privilege Escalation](../Cheatsheets/Linux%20Privilege%20Escalation.md), [Windows Privilege Escalation](../Cheatsheets/Windows%20Privilege%20Escalation.md), [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - Sibling playbooks: [SQL Injection to RCE to Pivot](SQL%20Injection%20to%20RCE%20to%20Pivot.md), [AWS IMDS SSRF to Account Takeover](AWS%20IMDS%20SSRF%20to%20Account%20Takeover.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

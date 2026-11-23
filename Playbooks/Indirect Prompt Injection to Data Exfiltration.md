@@ -304,3 +304,6 @@ Exact artifacts to revert:
 - BypassBurrito
 - [Web Application](../Checklists/Web%20Application.md)
 - [API Security](../Checklists/API%20Security.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

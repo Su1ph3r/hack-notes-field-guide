@@ -650,3 +650,6 @@ sniffles --iface wlan0mon                # TUI survey + ten checks
 - [Active Directory and Kerberos](Active%20Directory%20and%20Kerberos.md)
 - [OSINT and Recon](OSINT%20and%20Recon.md)
 - [Hashcat Cheatsheet](Hashcat.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

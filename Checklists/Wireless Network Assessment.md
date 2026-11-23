@@ -340,3 +340,6 @@ References:
 - [Web Application](Web%20Application.md)
 - [Phishing and Initial Access](../Cheatsheets/Phishing%20and%20Initial%20Access.md)
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

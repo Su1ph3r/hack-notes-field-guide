@@ -394,3 +394,6 @@ adb shell content query --uri content://com.target.app.provider/users
 - [API JWT and GraphQL](../Cheatsheets/API%20JWT%20and%20GraphQL.md)
 - BypassBurrito
 - [OSINT and Recon](../Cheatsheets/OSINT%20and%20Recon.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

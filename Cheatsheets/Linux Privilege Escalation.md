@@ -663,3 +663,6 @@ bash
 - [Pivoting and Tunneling](Pivoting%20and%20Tunneling.md)
 - [Windows Privilege Escalation](Windows%20Privilege%20Escalation.md)
 - [Kubernetes and Container Breakout](Kubernetes%20and%20Container%20Breakout.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

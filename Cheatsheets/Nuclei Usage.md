@@ -560,3 +560,6 @@ Related notes: Nuclei (README), Nuclei Templates (templates project), Nuclei MCP
 - [Web App and Payloads](Web%20App%20and%20Payloads.md)
 - [API JWT and GraphQL](API%20JWT%20and%20GraphQL.md)
 - [MCP-Assisted Pentesting](MCP-Assisted%20Pentesting.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

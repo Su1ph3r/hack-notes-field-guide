@@ -383,3 +383,6 @@ References:
 - [Web App and Payloads](../Cheatsheets/Web%20App%20and%20Payloads.md)
 - [API JWT and GraphQL](../Cheatsheets/API%20JWT%20and%20GraphQL.md)
 - [Internal Network and Active Directory](Internal%20Network%20and%20Active%20Directory.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

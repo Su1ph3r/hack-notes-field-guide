@@ -459,3 +459,6 @@ swaks --to victim@example.com --from helpdesk@dom.com --server smtp:587 --auth
 - [OSINT and Recon](OSINT%20and%20Recon.md)
 - [Azure and Entra ID](Azure%20and%20Entra%20ID.md)
 - [Active Directory and Kerberos](Active%20Directory%20and%20Kerberos.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

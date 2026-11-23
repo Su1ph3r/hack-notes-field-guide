@@ -381,3 +381,6 @@ Current phishing tradecraft has shifted decisively to MFA-bypass via AiTM and to
 - [Email Security](Email%20Security.md)
 - [Web App and Payloads](../Cheatsheets/Web%20App%20and%20Payloads.md)
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

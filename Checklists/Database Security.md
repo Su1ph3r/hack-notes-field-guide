@@ -374,3 +374,6 @@ References: CIS Benchmarks per DBMS (MSSQL, MySQL, PostgreSQL, Oracle, MongoDB, 
 - [AWS Pentest](../Cheatsheets/AWS%20Pentest.md)
 - [Azure and Entra ID](../Cheatsheets/Azure%20and%20Entra%20ID.md)
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -381,3 +381,6 @@ References:
 - [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - Cepheus
 - Vinculum
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

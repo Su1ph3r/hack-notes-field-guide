@@ -342,3 +342,6 @@ References:
 - [Phishing and Social Engineering](Phishing%20and%20Social%20Engineering.md)
 - [OSINT and Reconnaissance](OSINT%20and%20Reconnaissance.md)
 - [Azure and M365 Entra ID](Azure%20and%20M365%20Entra%20ID.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

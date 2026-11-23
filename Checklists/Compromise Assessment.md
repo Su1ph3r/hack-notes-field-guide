@@ -332,3 +332,6 @@ Convert leads into validated findings, scope the compromise, and hand off cleanl
 - [AWS Pentest](../Cheatsheets/AWS%20Pentest.md)
 - [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - [Phishing and Initial Access](../Cheatsheets/Phishing%20and%20Initial%20Access.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -331,3 +331,6 @@ Revert everything created, newest first, so dependencies unwind cleanly:
 - [Web Application](../Checklists/Web%20Application.md)
 - [Blind SSRF to Cloud Metadata RCE](Blind%20SSRF%20to%20Cloud%20Metadata%20RCE.md)
 - Vinculum
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

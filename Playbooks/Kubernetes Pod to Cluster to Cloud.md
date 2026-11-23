@@ -391,3 +391,6 @@ Decision branch: if IMDS is blocked from the pod but not from the node, you must
 - [GCP Cloud Penetration Test](../Checklists/GCP%20Cloud%20Penetration%20Test.md)
 - [Azure and M365 Entra ID](../Checklists/Azure%20and%20M365%20Entra%20ID.md)
 - Container
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

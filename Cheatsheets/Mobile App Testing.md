@@ -689,3 +689,6 @@ ls /var/mobile/Containers/Data/Application/       # data containers
 - [Web App and Payloads](Web%20App%20and%20Payloads.md)
 - [API JWT and GraphQL](API%20JWT%20and%20GraphQL.md)
 - [OSINT and Recon](OSINT%20and%20Recon.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

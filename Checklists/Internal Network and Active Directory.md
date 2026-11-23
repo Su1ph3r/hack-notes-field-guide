@@ -359,3 +359,6 @@ without a rollback owner on the line.
 - Ariadne
 - [External Network Penetration Test](External%20Network%20Penetration%20Test.md)
 - [Assumed Breach](Assumed%20Breach.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

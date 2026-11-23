@@ -827,3 +827,6 @@ Hashcat modes: AS-REP `18200`, Kerberoast RC4 `13100`, AES128 `19600`, AES256 `1
 - [Pivoting and Tunneling](Pivoting%20and%20Tunneling.md)
 - [OSINT and Recon](OSINT%20and%20Recon.md)
 - [Nmap Cheatsheet](Nmap.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

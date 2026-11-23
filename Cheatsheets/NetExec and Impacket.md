@@ -599,3 +599,6 @@ Common Impacket auth suffixes: `-hashes LM:NT` for pass-the-hash, `-k -no-pass` 
 - [Reverse Shells and File Transfer](Reverse%20Shells%20and%20File%20Transfer.md)
 - [Pivoting and Tunneling](Pivoting%20and%20Tunneling.md)
 - [Hashcat Cheatsheet](Hashcat.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

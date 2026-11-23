@@ -314,3 +314,6 @@ References: OWASP WSTG (client-side testing), OWASP ASVS, the OWASP Thick Client
 - [Mobile App Testing](../Cheatsheets/Mobile%20App%20Testing.md)
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

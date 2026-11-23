@@ -272,3 +272,6 @@ With DA and the krbtgt hash you have full forest control: forge Golden Tickets (
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
 - [Windows Privilege Escalation](../Cheatsheets/Windows%20Privilege%20Escalation.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

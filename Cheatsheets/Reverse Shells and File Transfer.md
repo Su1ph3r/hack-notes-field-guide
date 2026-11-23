@@ -464,3 +464,6 @@ bash
 - [Windows Privilege Escalation](Windows%20Privilege%20Escalation.md)
 - [Pivoting and Tunneling](Pivoting%20and%20Tunneling.md)
 - [Web App and Payloads](Web%20App%20and%20Payloads.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

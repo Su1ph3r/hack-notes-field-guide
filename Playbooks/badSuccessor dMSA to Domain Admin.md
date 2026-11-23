@@ -335,3 +335,6 @@ Remove-ADServiceAccount -Identity attacker_dmsa -Confirm:$false
 - [Active Directory and Kerberos](../Cheatsheets/Active%20Directory%20and%20Kerberos.md)
 - [Assumed Breach](../Checklists/Assumed%20Breach.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -191,3 +191,6 @@ A full-estate compromise usually means crossing a bridge: reaching one of these,
 - [Internal Network and Active Directory](../Checklists/Internal%20Network%20and%20Active%20Directory.md), [AWS Cloud Penetration Test](../Checklists/AWS%20Cloud%20Penetration%20Test.md), [Azure and M365 Entra ID](../Checklists/Azure%20and%20M365%20Entra%20ID.md), [Red Team Operation](../Checklists/Red%20Team%20Operation.md): the checklists behind these chains
 - Ariadne: attack-path graph and MITRE mapping from findings
 - Vinculum: correlate and deduplicate findings across tools
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

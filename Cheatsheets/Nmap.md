@@ -1748,3 +1748,6 @@ zmap -p 443 192.168.1.0/24
 ## Related
 
 - Checklists: [External Network Penetration Test](../Checklists/External%20Network%20Penetration%20Test.md), [Internal Network and Active Directory](../Checklists/Internal%20Network%20and%20Active%20Directory.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

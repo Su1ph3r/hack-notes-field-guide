@@ -338,3 +338,6 @@ References:
 - [API JWT and GraphQL](../Cheatsheets/API%20JWT%20and%20GraphQL.md)
 - [Nuclei Usage](../Cheatsheets/Nuclei%20Usage.md)
 - [OSINT and Recon](../Cheatsheets/OSINT%20and%20Recon.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

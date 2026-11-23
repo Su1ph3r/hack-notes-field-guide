@@ -323,3 +323,6 @@ General: forge with AES256, keep lifetimes at domain default, impersonate real e
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
 - [Compromise Assessment](../Checklists/Compromise%20Assessment.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

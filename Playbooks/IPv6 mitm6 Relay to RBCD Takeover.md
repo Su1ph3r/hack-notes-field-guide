@@ -284,3 +284,6 @@ Revert artifacts in reverse order of creation:
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
 - [Coercion to ADCS ESC8 to Domain Admin](Coercion%20to%20ADCS%20ESC8%20to%20Domain%20Admin.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

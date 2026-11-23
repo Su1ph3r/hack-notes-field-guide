@@ -299,3 +299,6 @@ Coordinate egress tests with the SOC so a covert-channel proof is not mistaken f
 - [Active Directory and Kerberos](../Cheatsheets/Active%20Directory%20and%20Kerberos.md)
 - [NetExec and Impacket](../Cheatsheets/NetExec%20and%20Impacket.md)
 - [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

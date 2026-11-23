@@ -374,3 +374,6 @@ curl -k -X POST "https://<device-ip>/webui/logoutconfirm.html?logon_hash=1"
 - [External Network Penetration Test](External%20Network%20Penetration%20Test.md)
 - [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - [Nuclei Usage](../Cheatsheets/Nuclei%20Usage.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

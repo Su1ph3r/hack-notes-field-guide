@@ -328,3 +328,6 @@ The report is the deliverable. Tell the story chronologically and make every con
 - [Phishing and Initial Access](../Cheatsheets/Phishing%20and%20Initial%20Access.md)
 - [OSINT and Recon](../Cheatsheets/OSINT%20and%20Recon.md)
 - BypassBurrito
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -450,3 +450,6 @@ Decision: from here continue into the AD-side chains. If the SQL service account
 - [Linux Privilege Escalation](../Cheatsheets/Linux%20Privilege%20Escalation.md)
 - [AWS Cloud Penetration Test](../Checklists/AWS%20Cloud%20Penetration%20Test.md)
 - [Azure and M365 Entra ID](../Checklists/Azure%20and%20M365%20Entra%20ID.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

@@ -351,3 +351,6 @@ Decision: no gopher support and no header control and no ECS endpoint -> you are
 - [GCP Cloud Penetration Test](../Checklists/GCP%20Cloud%20Penetration%20Test.md)
 - [Pivoting and Tunneling](../Cheatsheets/Pivoting%20and%20Tunneling.md)
 - [Reverse Shells and File Transfer](../Cheatsheets/Reverse%20Shells%20and%20File%20Transfer.md)
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*

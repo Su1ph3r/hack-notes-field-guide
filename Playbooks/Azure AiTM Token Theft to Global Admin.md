@@ -268,3 +268,6 @@ Success signal: Owner on a subscription and/or DCSync of the on-prem domain. You
 - [Phishing and Social Engineering](../Checklists/Phishing%20and%20Social%20Engineering.md)
 - [Device Code Phishing to M365 Takeover](Device%20Code%20Phishing%20to%20M365%20Takeover.md)
 - Ariadne
+
+---
+*Part of the [Pentest Field Guide](https://github.com/Su1ph3r/hack-notes-field-guide), maintained by [Cairn Security](https://cairnsecurity.com). Independent penetration testing.*
